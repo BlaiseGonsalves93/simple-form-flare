@@ -153,7 +153,7 @@ const Index = () => {
           </head>
           <body>
               <div class="form-container">
-                  <h1 class="form-title">Contact Form</h1>
+                  <h1 class="form-title">AI Weather Reporter</h1>
                   <form id="contactForm">
                       <div class="form-group">
                           <label for="fullName" class="form-label">Full Name</label>
